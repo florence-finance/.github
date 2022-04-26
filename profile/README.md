@@ -1,4 +1,7 @@
-## Hi there 👋
+## Florence Finance🧙
+
+>Connecting DeFi to real-world lending
+
 
 <!--
 
